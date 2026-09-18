@@ -1,4 +1,4 @@
-// Preencha video com o caminho MP4, por exemplo: 'videos/introducao.mp4'.
+
 window.AULAS = [
  {id:0,cover:'capas/introducao.svg',title:'Introdução ao projeto',subtitle:'Conheça a proposta e veja o que vamos aprender juntos.',category:'BOAS-VINDAS',poster:'A tecnologia também<br>é para você.',video:''},
  {id:1,cover:'capas/whatsapp-01.svg',title:'Conversas, áudios e fotos',subtitle:'Envie e leia mensagens, grave áudios e compartilhe fotos.',category:'WHATSAPP · VÍDEO 01',poster:'Uma mensagem.<br>Muitas conexões.',icon:'message',video:'videos/WhatsApp Video 2026-09-17 at 09.32.26.mp4'},
