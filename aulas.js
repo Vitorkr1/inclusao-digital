@@ -17,7 +17,7 @@ window.AULAS = [
     category: 'WHATSAPP · VÍDEO 01',
     poster: 'Uma mensagem.<br>Muitas conexões.',
     icon: 'message',
-    video: 'videos/WhatsApp Video 2026-09-17 at 09.32.26.mp4'
+    video: 'videos/vitor.mp4'
   },
 
   {
@@ -61,7 +61,7 @@ window.AULAS = [
     category: 'SEGURANÇA · VÍDEO 01',
     poster: 'Antes de tocar,<br>vale conferir.',
     icon: 'shield',
-    video: ''
+    video: 'videos/goidin.mp4'
   },
 
   {
