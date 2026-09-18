@@ -50,7 +50,7 @@ window.AULAS = [
     category: 'GOV.BR · VÍDEO 02',
     poster: 'Um passo de cada vez.<br>Também no Gov.br.',
     icon: 'gov',
-    video: 'videos/WhatsApp Video 2026-09-17 at 22.42.37.mp4'
+    video: 'videos/pedir_indentidade.mp4'
   },
 
   {
