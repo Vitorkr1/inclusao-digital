@@ -6,7 +6,7 @@ window.AULAS = [
     subtitle: 'Conheça a proposta e veja o que vamos aprender juntos.',
     category: 'BOAS-VINDAS',
     poster: 'A tecnologia também<br>é para você.',
-    video: ''
+    video: 'videos/teteu.mp4'
   },
 
   {
