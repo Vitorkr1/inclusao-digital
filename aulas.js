@@ -72,6 +72,6 @@ window.AULAS = [
     category: 'SEGURANÇA · VÍDEO 02',
     poster: 'Sua informação<br>merece cuidado.',
     icon: 'shield',
-    video: ''
+    video: 'videos/seguranca-informacoes.mp4'
   }
 ];

@@ -11,7 +11,7 @@ Extraia o ZIP e abra index.html no navegador. Para colocar online, publique todo
 3. Preencha o campo video da aula desejada. Exemplo: video: 'videos/whatsapp-01.mp4'.
 4. Salve e recarregue a página. Se estiver online, envie os arquivos atualizados para a hospedagem.
 
-Os sete espaços estão vazios. O vídeo de teste foi removido. Use arquivos MP4 compatíveis com navegadores (H.264 e áudio AAC). Links de páginas do YouTube não funcionam como arquivos MP4.
+As sete aulas possuem vídeo configurado. A aula Segurança · Vídeo 02, “Protegendo suas informações”, usa videos/seguranca-informacoes.mp4. Ao substituir os arquivos, use MP4 compatível com navegadores (H.264 e áudio AAC). Links de páginas do YouTube não funcionam como arquivos MP4.
 
 ## Capas
 Cada aula tem uma capa individual em capas/, em SVG. O campo cover em aulas.js define a capa exibida no cartão e no player. Para trocar, coloque uma imagem na pasta e atualize o campo cover. Proporção recomendada: 16:9.
